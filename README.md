@@ -1,5 +1,4 @@
-# Assessment_AGData
-# Person Management App
+# Person Management App (Assessment_AGData)
 
 ## Description
 
@@ -38,3 +37,8 @@ To get started, clone the repository from GitHub:
 ```bash
 git clone https://github.com/yourusername/person-management-app.git
 cd person-management-app
+
+### Application Preview
+![image](https://github.com/user-attachments/assets/29ac727b-f493-4d7c-81a9-3e0ff78f0995)
+
+
