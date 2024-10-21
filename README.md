@@ -30,6 +30,11 @@ This is a **Person Management** web application built using **Angular** and **AS
 - [Angular CLI](https://angular.io/guide/setup-local) (for Angular commands)
 - [.NET 6 SDK](https://dotnet.microsoft.com/download) (for ASP.NET Core backend)
 
+### Application Preview
+
+![image](https://github.com/user-attachments/assets/d9b0f188-df56-45b8-9471-cdc14f6a3cb9)
+
+
 ### Clone the Repository
 
 To get started, clone the repository from GitHub:
@@ -37,8 +42,3 @@ To get started, clone the repository from GitHub:
 ```bash
 git clone https://github.com/yourusername/person-management-app.git
 cd person-management-app
-
-### Application Preview
-![image](https://github.com/user-attachments/assets/29ac727b-f493-4d7c-81a9-3e0ff78f0995)
-
-
